@@ -9,8 +9,6 @@ This project simulates an autonomous robot navigating a grid with safe, risky, a
 - [Usage](#usage)
 - [How It Works](#how-it-works)
 - [Controls](#controls)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
